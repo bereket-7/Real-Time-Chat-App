@@ -34,7 +34,7 @@ This is a real-time chat application built using Spring Boot and WebSocket. The 
    mvn spring-boot:run
 
 4. Access the application:
-  Open your web browser and go to http://localhost:8090
+  Open your web browser and go to http://localhost:8080
 
 
 License
